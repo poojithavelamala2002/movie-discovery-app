@@ -105,7 +105,7 @@ Frontend: React, HTML, CSS, JavaScript
 
 Testing: React Testing Library
 
-API: (Specify the movie API you used, e.g., OMDB API)
+API: OMDB API
 
 Version Control: Git/GitHub
 
