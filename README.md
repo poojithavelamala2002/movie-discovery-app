@@ -30,7 +30,7 @@ The app should now be running at http://localhost:3000.
 # 🧪 Running Tests
 
 Run unit tests using the following command:
-- npm test
+` npm test `
 
 ## 🏗️ Project Structure
 ```
