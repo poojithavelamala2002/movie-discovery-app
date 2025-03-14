@@ -1,7 +1,7 @@
 # 🎬 Movie Discovery App
 
 ## 🌟 Description
-A simple React application that allows users to search for movies and view their details. Built with React components, real-time API integration, and responsive design.
+The Movie Discovery App lets users search for their favorite movies instantly, view key details, and experience a smooth and responsive interface — built with React and real-time API integration. This project was built to strengthen my skills in working with external APIs, managing React components, and enhancing UI responsiveness.
 
 ## 🚀 Features
 - Movie search functionality with real-time API calls
@@ -25,14 +25,15 @@ npm install
 # Start the development server
 npm start
 ```
+The app should now be running at http://localhost:3000.
 
 # 🧪 Running Tests
 
-# Run unit tests
-npm test
+Run unit tests using the following command:
+- npm test
 
 ## 🏗️ Project Structure
-
+```
 ├── public  
 ├── src  
 │   ├── components  
@@ -51,7 +52,7 @@ npm test
 ├── package-lock.json  
 ├── package.json  
 ├── README.md  
-
+```
 ## 📚 Tech Stack
 
 Frontend: React, HTML, CSS, JavaScript
